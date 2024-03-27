@@ -1,0 +1,27 @@
+2024-03-27 15:05:00.059 [warning] /root/.ssh/config: ENOENT: no such file or directory, open '/root/.ssh/config'
+2024-03-27 15:05:00.059 [info] Activation> Extension version: 0.82.1
+2024-03-27 15:05:03.670 [info] Looking for git repository
+2024-03-27 15:05:03.670 [info] Found 0 repositories during activation
+2024-03-27 15:05:03.670 [info] Git repository found, initializing review manager and pr tree view.
+2024-03-27 15:05:03.683 [info] Registering git provider
+2024-03-27 15:05:03.684 [info] Review+0> Validate state in progress
+2024-03-27 15:05:03.684 [info] Review+0> Validating state...
+2024-03-27 15:05:03.900 [info] Found GitHub remote for folder /root/docker
+2024-03-27 15:05:03.902 [info] Trying to use globalState for assignableUsers.
+2024-03-27 15:05:03.961 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-27 15:05:04.021 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-03-27 15:05:04.025 [info] GlobalState does not exist for assignableUsers.
+2024-03-27 15:05:06.418 [info] Repo state for file:///root/docker changed.
+2024-03-27 15:05:06.418 [info] Repo file:///root/docker has already been setup.
+2024-03-27 15:08:20.177 [error] Error signing in to GitHub: Canceled: Canceled
+2024-03-27 15:08:20.177 [error] Canceled: Canceled
+	at Object.C [as $6] (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:2349
+	at Array.forEach (<anonymous>)
+	at s.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:2287)
+	at w.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:8052)
+	at o.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:6374)
+	at MessagePortMain.emit (node:events:514:28)
+	at Object.emit (node:electron/js2c/utility_init:2:2285)

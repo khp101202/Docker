@@ -1,0 +1,43 @@
+2024-03-27 15:26:15.280 [warning] /root/.ssh/config: ENOENT: no such file or directory, open '/root/.ssh/config'
+2024-03-27 15:26:15.282 [info] Activation> Extension version: 0.82.1
+2024-03-27 15:26:18.930 [info] Looking for git repository
+2024-03-27 15:26:18.931 [info] Found 0 repositories during activation
+2024-03-27 15:26:18.931 [info] Git repository found, initializing review manager and pr tree view.
+2024-03-27 15:26:18.938 [info] Registering git provider
+2024-03-27 15:26:18.939 [info] Review+0> Validate state in progress
+2024-03-27 15:26:18.939 [info] Review+0> Validating state...
+2024-03-27 15:26:19.011 [info] Found GitHub remote for folder /root/docker
+2024-03-27 15:26:19.014 [info] Trying to use globalState for assignableUsers.
+2024-03-27 15:26:19.064 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-27 15:26:19.105 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-03-27 15:26:19.148 [info] GlobalState does not exist for assignableUsers.
+2024-03-27 15:26:21.802 [info] Repo state for file:///root/docker changed.
+2024-03-27 15:26:21.802 [info] Repo file:///root/docker has already been setup.
+2024-03-27 15:29:15.348 [info] Review+0> Validate state in progress
+2024-03-27 15:29:15.349 [info] Review+0> Validating state...
+2024-03-27 15:29:15.388 [info] Found GitHub remote for folder /root/docker
+2024-03-27 15:29:15.400 [info] Using in-memory cached assignable users.
+2024-03-27 15:29:15.903 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-27 15:29:16.046 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-03-27 15:30:36.026 [info] Review+0> Validate state in progress
+2024-03-27 15:30:36.026 [info] Review+0> Validating state...
+2024-03-27 15:30:36.058 [info] Found GitHub remote for folder /root/docker
+2024-03-27 15:30:36.059 [info] Using in-memory cached assignable users.
+2024-03-27 15:30:36.112 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-27 15:30:36.344 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-03-27 15:31:31.064 [info] Review+0> Validate state in progress
+2024-03-27 15:31:31.064 [info] Review+0> Validating state...
+2024-03-27 15:31:31.096 [info] Found GitHub remote for folder /root/docker
+2024-03-27 15:31:31.533 [info] Trying to use globalState for assignableUsers.
+2024-03-27 15:31:31.549 [info] GlobalState does not exist for assignableUsers.
+2024-03-27 15:31:31.604 [info] Found GitHub remote for folder /root/docker
+2024-03-27 15:31:31.607 [info] Trying to use globalState for assignableUsers.
+2024-03-27 15:31:31.631 [info] GlobalState does not exist for assignableUsers.
+2024-03-27 15:31:31.654 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-27 15:31:31.691 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-03-27 15:31:46.943 [info] Review+0> Validate state in progress
+2024-03-27 15:31:46.943 [info] Review+0> Validating state...
+2024-03-27 15:31:46.987 [info] Found GitHub remote for folder /root/docker
+2024-03-27 15:31:46.993 [info] Using in-memory cached assignable users.
+2024-03-27 15:31:47.250 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-27 15:31:47.656 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

@@ -1,0 +1,16 @@
+2024-03-27 14:53:47.691 [warning] /root/.ssh/config: ENOENT: no such file or directory, open '/root/.ssh/config'
+2024-03-27 14:53:47.691 [info] Activation> Extension version: 0.82.1
+2024-03-27 14:53:47.885 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/root/docker/~/vscode/User/globalStorage/github.vscode-pull-request-github/temp'
+2024-03-27 14:53:47.969 [info] Looking for git repository
+2024-03-27 14:53:47.969 [info] Found 0 repositories during activation
+2024-03-27 14:53:47.969 [info] Git repository found, initializing review manager and pr tree view.
+2024-03-27 14:53:47.988 [info] Registering git provider
+2024-03-27 14:53:47.989 [info] Review+0> Validate state in progress
+2024-03-27 14:53:47.989 [info] Review+0> Validating state...
+2024-03-27 14:53:48.099 [info] Found GitHub remote for folder /root/docker
+2024-03-27 14:53:48.105 [info] Trying to use globalState for assignableUsers.
+2024-03-27 14:53:48.170 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-27 14:53:48.210 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-03-27 14:53:48.235 [info] GlobalState does not exist for assignableUsers.
+2024-03-27 14:53:52.309 [info] Repo state for file:///root/docker changed.
+2024-03-27 14:53:52.310 [info] Repo file:///root/docker has already been setup.

@@ -1,0 +1,36 @@
+2024-03-27 14:54:14.154 [warning] /root/.ssh/config: ENOENT: no such file or directory, open '/root/.ssh/config'
+2024-03-27 14:54:14.154 [info] Activation> Extension version: 0.82.1
+2024-03-27 14:54:15.842 [info] Looking for git repository
+2024-03-27 14:54:15.842 [info] Found 0 repositories during activation
+2024-03-27 14:54:15.842 [info] Git repository found, initializing review manager and pr tree view.
+2024-03-27 14:54:15.847 [info] Registering git provider
+2024-03-27 14:54:15.847 [info] Review+0> Validate state in progress
+2024-03-27 14:54:15.847 [info] Review+0> Validating state...
+2024-03-27 14:54:15.921 [info] Found GitHub remote for folder /root/docker
+2024-03-27 14:54:15.923 [info] Trying to use globalState for assignableUsers.
+2024-03-27 14:54:15.987 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-27 14:54:15.990 [info] GlobalState does not exist for assignableUsers.
+2024-03-27 14:54:16.034 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-03-27 14:54:19.145 [info] Repo state for file:///root/docker changed.
+2024-03-27 14:54:19.145 [info] Repo file:///root/docker has already been setup.
+2024-03-27 14:55:18.196 [error] Error signing in to GitHub: Error: Cancelled
+2024-03-27 14:55:18.197 [error] Error: Cancelled
+	at d (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:261497)
+	at async a.GitHubServer.login (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:262041)
+	at async a.GitHubAuthenticationProvider.createSession (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:258135)
+2024-03-27 14:55:18.198 [error] Error signing in to GitHub: Error: Cancelled
+2024-03-27 14:55:18.198 [error] Error: Cancelled
+	at d (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:261497)
+	at async a.GitHubServer.login (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:262041)
+	at async a.GitHubAuthenticationProvider.createSession (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:258135)
+2024-03-27 14:57:06.781 [error] Error signing in to GitHub: Error: Cancelled
+2024-03-27 14:57:06.782 [error] Error: Cancelled
+	at d (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:261497)
+	at async a.GitHubServer.login (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:262041)
+	at async a.GitHubAuthenticationProvider.createSession (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:258135)
+2024-03-27 14:58:00.523 [info] Review+0> Validate state in progress
+2024-03-27 14:58:00.523 [info] Review+0> Validating state...
+2024-03-27 14:58:00.596 [info] Found GitHub remote for folder /root/docker
+2024-03-27 14:58:00.600 [info] Using in-memory cached assignable users.
+2024-03-27 14:58:00.765 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-03-27 14:58:00.893 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

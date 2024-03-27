@@ -1,0 +1,6 @@
+2024-03-27 14:54:08.480 [info] Started local extension host with pid 7674.
+2024-03-27 14:54:17.718 [info] [perf] Render performance baseline is 173ms
+2024-03-27 14:55:12.148 [error] [Extension Host] Error: Cancelled
+	at d (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:261497)
+	at async a.GitHubServer.login (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:262041)
+	at async a.GitHubAuthenticationProvider.createSession (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:258135)

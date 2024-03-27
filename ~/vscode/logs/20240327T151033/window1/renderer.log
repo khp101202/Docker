@@ -1,0 +1,4 @@
+2024-03-27 15:10:35.652 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 26ms.
+2024-03-27 15:10:37.515 [info] Started local extension host with pid 13427.
+2024-03-27 15:10:39.940 [warning] No search provider registered for scheme: file, waiting
+2024-03-27 15:10:50.372 [info] [perf] Render performance baseline is 493ms

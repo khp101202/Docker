@@ -1,0 +1,8 @@
+2024-03-27 15:26:12.540 [info] Started local extension host with pid 14552.
+2024-03-27 15:26:13.253 [warning] No search provider registered for scheme: file, waiting
+2024-03-27 15:26:20.116 [info] [perf] Render performance baseline is 171ms
+2024-03-27 15:28:29.773 [error] [Extension Host] Error: Cancelled
+	at d (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:261497)
+	at async a.GitHubServer.login (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:262041)
+	at async a.GitHubAuthenticationProvider.createSession (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:258135)
+2024-03-27 15:31:30.674 [info] Settings Sync: Updating due to change in sessions

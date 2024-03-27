@@ -1,0 +1,10 @@
+2024-03-27 14:49:35.770 [info] Started local extension host with pid 5863.
+2024-03-27 14:49:36.376 [warning] No search provider registered for scheme: file, waiting
+2024-03-27 14:49:38.725 [info] [perf] Render performance baseline is 258ms
+2024-03-27 14:51:12.863 [error] [Extension Host] Error: Cancelled
+	at d (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:261497)
+	at async a.GitHubServer.login (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:262041)
+	at async a.GitHubAuthenticationProvider.createSession (/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js:2:258135)
+2024-03-27 14:51:14.536 [error] [Extension Host] Error: User did not consent to login.
+    at l.r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1595:24373)
+    at async l.$getSession (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1595:25290)
